@@ -1,0 +1,18 @@
+.navegacao ul{
+    position: relative;
+    display: flex;
+}
+
+.navegacao li{
+    list-style: none;
+    display: inline-block;
+    font-weight: 500;
+    font-size: 19px;
+    margin-left: 100px;
+
+}
+
+.navegacao li a{
+    text-decoration: none;
+    color: white;
+}
